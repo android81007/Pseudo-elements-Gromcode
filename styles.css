@@ -8,11 +8,6 @@
     font-size: 24px;
 }
 
-.theory{
-    background-color: red;
-    color: #fff;
-}
-
 p a[href]::before {
    content: ">";
     color: green;
